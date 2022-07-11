@@ -51,7 +51,7 @@ async function fetchData(urlApi) {
         let view = `
         <div class="group relative">
             <div class="w-full bg-gray-200 aspect-w-1 aspect-h-1 rounded-md overflow-hidden group-hover:opacity-75 lg:aspect-none">
-                <img src="/src/img/error.png" alt="sucedio un error" class="w-full">
+                <img src="./img/error.png" alt="sucedio un error" class="w-full">
             </div>
             <div class="mt-4 flex justify-between">
                 <h3 class="text-sm text-gray-700">
