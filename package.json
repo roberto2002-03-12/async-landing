@@ -1,0 +1,30 @@
+{
+  "name": "async-landing",
+  "version": "1.0.0",
+  "description": "Landing page otorgado por platzi",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roberto2002-03-12/async-landing.git"
+  },
+  "keywords": [
+    "Landing",
+    "page"
+  ],
+  "author": "Emilio Roberto Fabriciano Contreras Gonzales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roberto2002-03-12/async-landing/issues"
+  },
+  "homepage": "https://github.com/roberto2002-03-12/async-landing#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.6"
+  },
+  "type": "module",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
